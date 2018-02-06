@@ -1,0 +1,25 @@
+body {
+	background-color: #333333;
+}
+
+img {
+	width: 100%;
+	margin-top: 10px;
+	height: auto;
+}
+
+.barra {
+	width: 100%;
+	height: 50px;
+	background-color: #FFBDFF;
+}
+
+.material-icons {
+	padding: 10px 0;
+}
+
+.cancion {
+	color: #FFBDFF;
+	font-weight: bold;
+	text-align: center;
+}
